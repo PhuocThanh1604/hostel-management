@@ -53,9 +53,7 @@ Admin Interface:
 
 ## Screenshots
 Customer Home: 
-![image](https://user-images.githubusercontent.com/39693803/184523384-630d3b3c-bc73-41df-b289-5037a6a54887.png)
-
-
+![image](https://user-images.githubusercontent.com/39693803/184523403-c273a00e-5fee-48da-8e7e-750f022a4628.png)
 
 Admin Home: 
 ![image](https://user-images.githubusercontent.com/39693803/184523387-ff161c43-5f45-42d5-90e4-3a7df727ead6.png)
